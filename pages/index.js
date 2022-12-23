@@ -17,6 +17,11 @@ export default function Home() {
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
         />
+        <script
+          data-goatcounter="https://xinlu.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        ></script>
       </Head>
       <main className={styles.main}>
         <div className={styles.box}>
