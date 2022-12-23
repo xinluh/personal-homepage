@@ -22,3 +22,20 @@
   margin-left: 1rem;
   padding-left: 0;
 }
+
+/* Mobile */
+@media (max-width: 700px) {
+  .main {
+    padding: 1rem;
+  }
+
+  .box {
+    padding: 2rem;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .main a:hover {
+    color: darkgray;
+  }
+}
